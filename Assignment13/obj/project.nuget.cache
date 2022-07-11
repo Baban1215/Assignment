@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TAx5TlqR8iM2KtZEkupqCVdkoKUdw9ff+QEI/oqa62L2utjbT3SfvKuDv8ePpmpT6mxw2gvjyScESQU5/iU9nQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitProjects\\Assignment13\\Assignment13\\Assignment13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammad Baban\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
